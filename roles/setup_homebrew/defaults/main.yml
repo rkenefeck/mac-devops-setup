@@ -15,9 +15,6 @@ homebrew_taps:
   - homebrew/core
   - caskroom/cask
 
-homebrew_cask_apps:
-  - firefox
-
 homebrew_cask_appdir: /Applications
 
 homebrew_use_brewfile: true

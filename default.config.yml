@@ -3,7 +3,7 @@ configure_terminal: yes
 configure_osx: yes
 configure_dotfiles: yes
 
-dotfiles_repo: https://github.com/DemisR/dotfiles.git
+dotfiles_repo: https://github.com/rkenefeck/dotfiles.git
 dotfiles_repo_accept_hostkey: yes
 dotfiles_repo_local_destination: ~/dotfiles
 dotfiles_files:
@@ -28,10 +28,10 @@ homebrew_installed_packages:
   - ssh-copy-id
   - wget
   - csshx
-  - whatmask
-  - knock
+  #- whatmask
+  #- knock
   - netcat
-  - sshuttle
+  #- sshuttle
   # - freetds
 
 
@@ -46,7 +46,7 @@ homebrew_cask_apps:
   - docker
   - dropbox
   - google-chrome
-  - handbrake
+ # - handbrake
   - java
   - kap
   - sequel-pro
@@ -56,8 +56,6 @@ homebrew_cask_apps:
   - iterm2
   - sourcetree
   - postman
-  - atom
-  - intellij-idea
   - qlcolorcode
   - qlstephen
   - qlmarkdown
@@ -68,11 +66,8 @@ homebrew_cask_apps:
   - qlimagesize
   - webpquicklook
   - suspicious-package
-  - spotify
-  - evernote
   - postico
   - sequel-pro
-  - skype-for-business
   - caffeine
   - visual-studio-code
   - go2shell
@@ -88,6 +83,8 @@ mas_installed_app_ids:
   - 472226235 # LanScan (4.3)
   - 443987910 # 1Password (6.5.3)
   - 715768417 # Microsoft Remote Desktop (8.0.27246)
+  - 441258766 # Magnet
+
 
 #mas_email: ""
 #mas_password: ""

@@ -38,8 +38,9 @@ All commands are listed in [install.sh](install.sh)
 - mas-cli
 - unarchiver
 - nmap
-- httpie
-- csshx
+- httpie 
+- httpie https://httpie.org/
+- csshx https://github.com/brockgr/csshx
 - whatmask (ipcalculator)
 - caffeine
 - vim
@@ -60,7 +61,7 @@ All commands are listed in [install.sh](install.sh)
   - betterzipql
   - qlimagesize
   - webpquicklook
-  - suspicious-package
+  - suspicious-package https://www.mothersruin.com/software/SuspiciousPackage/
 
 ## Softwares
 
@@ -70,8 +71,6 @@ All commands are listed in [install.sh](install.sh)
 - kinematic
 - vagrant
 - virtualbox
-- intellij-idea
-  - config
 - sourcetree
 - postman
 - dropbox
@@ -106,15 +105,12 @@ All commands are listed in [install.sh](install.sh)
     - pigments
     - project-manager
     - qulor
-- spotify
 - outlook
 - ms-office
 - MicrosofrRemoteDesktop
-- evernote
-- postico
-- sequelpro
+- postico https://eggerapps.at/postico/
+- sequelpro https://www.sequelpro.com/
 - skitch
-- skype4b
 - vlc
 
 
